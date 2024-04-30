@@ -1,3 +1,4 @@
+![fdsgdfgs](https://github.com/shinmg1215/smg031215/assets/145413860/bfc8dd99-1a2c-43e1-8021-5fec66a09654)
 # MobileBERT를 활용한 pc 게임 평점 분석
 <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
