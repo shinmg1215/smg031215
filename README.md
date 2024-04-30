@@ -19,5 +19,6 @@
 (https://www.kaggle.com/datasets/argaadya/best-pc-of-all-times-metacritic-game-review/data)
 ## 2.2 추출한 데이터
 대량의 데이터에서 평점 및 리뷰를 추출한다. (30769건)
+![스크린샷 2024-04-30 114104adsdsa](https://github.com/shinmg1215/smg031215/assets/145413860/280184e4-cccb-48d6-acfb-d00886215775)
 ### 2.3 추출한 데이터에 대한 탐색적 데이터 분석
 30769건 중 게임 평가와 리뷰 데이터를 탐색 (pandas)
