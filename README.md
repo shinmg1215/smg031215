@@ -24,7 +24,7 @@
 대량의 데이터에서 평점 및 리뷰를 추출한다. (30769건)
 
 
-![Figure_1](https://github.com/shinmg1215/smg031215/assets/145413860/0ab8bc52-c599-4248-94af-43494b52f55b)
+![Figure_1](https://github.com/shinmg1215/smg031215/assets/145413860/9fd7a3ed-07b2-44c8-9914-14f6bb282390)
 
 ### 2.3 추출한 데이터에 대한 탐색적 데이터 분석
 30769건 중 게임 평가와 리뷰 데이터를 탐색 (pandas)
