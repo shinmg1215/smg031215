@@ -17,10 +17,12 @@
 ## 2.1 원시 데이터 
 역대 최고의 pc 게임 에 평점과 리뷰를 분석한 데이터
 
+![스크린샷 2024-04-30 114104adsdsa](https://github.com/shinmg1215/smg031215/assets/145413860/280184e4-cccb-48d6-acfb-d00886215775)
+
 (https://www.kaggle.com/datasets/argaadya/best-pc-of-all-times-metacritic-game-review/data)
 ## 2.2 추출한 데이터
 대량의 데이터에서 평점 및 리뷰를 추출한다. (30769건)
-![스크린샷 2024-04-30 114104adsdsa](https://github.com/shinmg1215/smg031215/assets/145413860/280184e4-cccb-48d6-acfb-d00886215775)
+
 
 ![Figure_1](https://github.com/shinmg1215/smg031215/assets/145413860/0ab8bc52-c599-4248-94af-43494b52f55b)
 
