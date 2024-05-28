@@ -26,6 +26,10 @@
 
 ![Figure_1](https://github.com/shinmg1215/smg031215/assets/145413860/9fd7a3ed-07b2-44c8-9914-14f6bb282390)
 
+
+![스크린샷 2024-05-28 115754saddsa](https://github.com/shinmg1215/smg031215/assets/145413860/559cc3e3-08c0-4a87-8329-4ddbda077dbb)
+
+
 ### 2.3 추출한 데이터에 대한 탐색적 데이터 분석
 30769건 중 게임 평가와 리뷰 데이터를 탐색 (pandas)
 
