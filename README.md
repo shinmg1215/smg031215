@@ -26,6 +26,7 @@
 
 ![Figure_1](https://github.com/shinmg1215/smg031215/assets/145413860/9fd7a3ed-07b2-44c8-9914-14f6bb282390)
 
+위에 보이는 그래프는 게임별 리뷰 개수를 알수 있다
 
 ![스크린샷 2024-05-28 115754saddsa](https://github.com/shinmg1215/smg031215/assets/145413860/559cc3e3-08c0-4a87-8329-4ddbda077dbb)
 
