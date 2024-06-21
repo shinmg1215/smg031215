@@ -38,17 +38,11 @@
 | grand-theft-auto-v | 아직도 재생 중입니다. 이 게임의 끝없는 콘텐츠 양은 정말 놀랍습니다. 최근의 스턴트 미션은 많은 새로운 생명을 불어넣었습니다. 싱글 플레이어는 완벽했습니다.                                |
 
 
-
-
 ## 3. 학습 데이터
 ### 3.1 첫 번째 학습 데이터
 첫 번째 학습 데이터는 전체 리뷰 데이터 30000만건 이상을 추출하여 만들었다.
 
 ![스크린샷 2024-05-28 115754saddsa](https://github.com/shinmg1215/smg031215/assets/145413860/559cc3e3-08c0-4a87-8329-4ddbda077dbb)
-
-
-
-
 
 
 ### 3.2  소스코드 데이터 추출 값값
@@ -61,21 +55,7 @@
 ![스크린샷 2024-05-31 10504459198](https://github.com/shinmg1215/smg031215/assets/145413860/5606d9c5-4947-4e9a-9b10-71ee1e8640ac)
 
 
-
-
-
-
-
-
-
-
-
-
-
 ### 3.3  소스코드 
-
-
-
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -94,14 +74,6 @@ data.rename(columns={'game': 'GameName'}, inplace=True)
 #print(data['GameName'].value_counts()[:20])
 data['GameName'].value_counts()[:20].plot(kind='bar')
 plt.show()
-
-
-
-
-
-
-
-
 
 ### 4느낀점 및 배운점
 
