@@ -62,9 +62,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 ### 3.3  소스코드 
-
-
 
 
 
@@ -86,6 +94,7 @@ data.rename(columns={'game': 'GameName'}, inplace=True)
 #print(data['GameName'].value_counts()[:20])
 data['GameName'].value_counts()[:20].plot(kind='bar')
 plt.show()
+
 
 
 
