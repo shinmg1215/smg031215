@@ -55,26 +55,6 @@
 ![스크린샷 2024-05-31 10504459198](https://github.com/shinmg1215/smg031215/assets/145413860/5606d9c5-4947-4e9a-9b10-71ee1e8640ac)
 
 
-### 3.3  소스코드 
-
-import pandas as pd
-import matplotlib.pyplot as plt
-
-file_path = r"C:\Users\user\Downloads\game_review.csv (2)\game_review.csv"
-
- with open(file_path, 'rb') as f:
-     result = chardet.detect(f.read())
-
-#print("추정된 인코딩:", result['encoding'])
-
-data = pd.read_csv(file_path, encoding='Windows-1252')
-
-data.rename(columns={'game': 'GameName'}, inplace=True)
-
-#print(data['GameName'].value_counts()[:20])
-data['GameName'].value_counts()[:20].plot(kind='bar')
-plt.show()
-
 ### 4느낀점 및 배운점
 
 어렵긴 했지만 그래도 재미있었다
